@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = m.decourcyling@gmail.com
+	name = Mark de Courcy Ling
